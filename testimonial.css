@@ -1,0 +1,242 @@
+
+.brand-name {
+    margin-top: 20px;
+    margin-left: 47%;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.navbar {
+    height: 38px;
+    background-color: white;
+    display: flex;
+    box-shadow: #a19e9e 0 1px 5px;
+    /*to applay all div on same block*/
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+    margin-bottom: 70px;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    padding: 5px 25px;
+    color: #514f4f;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+
+}
+
+.nav-link:hover {
+    color: #514f4f;
+    background-color: #f4f5f6;
+    transition-duration: 0.4s;
+}
+.btn {
+    background: #db4566;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 40px;
+    margin-top: 50px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+.btn:hover {
+    border: 1px solid #db4566;
+    background-color: white;
+    color: #db4566;
+    transition-duration: 0.4s;
+}
+
+
+/* testimonial */
+.testimonial-heading{
+    margin-top: 0%;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.testimonial-flx{
+    display: flex;
+    height: 250px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 100px;
+
+}
+.testimonial-backword{
+    margin-top: 50px;
+    height: 125px;
+    width: 150px;
+    background-color: #db4f66;
+    margin-left: 40px;
+}
+.testimonial{
+    margin-bottom: 100px;
+    box-shadow: #a19e9e 0 1px 20px;
+    height: 230px;
+}
+.testimonial-forword{
+    margin-top: 50px;
+    height: 125px;
+    width: 150px;
+    background-color: #db4f66;
+    margin-right: 40px;
+}
+.arrow1{
+    color: white;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-left: 10px;
+}
+.arrow2{
+    color: white;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+.test-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #db4f66;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.test-subtitle{
+    color: #bfc0c0;
+    font-weight: normal;
+    font-size: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.test-info{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 19px;
+}
+/* lastdiv */
+.last-div {
+    height: 500px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #2d2d2d;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.media-icon {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.fa-brands {
+    margin-top: 80px;
+    font-size: 25px;
+}
+
+.facebook {
+    margin-left: 15px;
+}
+
+.twitter {
+    margin-left: 15px;
+}
+
+.insta {
+    margin-left: 15px;
+}
+
+.youthub {
+    margin-left: 15px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.last-flx {
+    display: flex;
+    margin-top: 50px;
+
+}
+
+.about-us {
+    height: 200px;
+    margin-left: 40px;
+    width: 900px;
+}
+
+.aboutus-info {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.newsletter {
+    height: 200px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 900px;
+}
+
+.newsletter-text {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.btn7 {
+    text-decoration: none;
+    color: white;
+    background-color: #f89cab;
+    padding: 10px;
+}
+
+.need-help {
+    height: 200px;
+    width: 900px;
+}
+
+.needhelp-info {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.contactformore {
+    height: 200px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 900px;
+    display: block;
+    display: grid;
+    color: white;
+}
+.contactformore-info{
+    font-weight: 100;
+    text-decoration: none;
+    color: white;
+}
+
+.location-logo {
+    color: white;
+}
+
+.help-line {
+    color: white;
+}
+
+.email-demo {
+    color: white;
+}
